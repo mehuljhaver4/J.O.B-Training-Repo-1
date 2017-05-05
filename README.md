@@ -5,7 +5,7 @@ If you are looking for the face to face guided training repository for CTS-IT Gi
 
 1) Install gitflow which is a one-time operation
 - With the laptop on click, go>utilities>terminal
-- Type `brew install gitflow`
+- Type `brew install git-flow`
 
 2) Browse to github.com and login
 - Navigate to [github.com/ctsit](http://github.com/ctsit "CTS-IT Github Page").
