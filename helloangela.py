@@ -1,2 +1,5 @@
 #This is my hello world program
-print ("Hellow angela")
+print ("Hello angela")
+print ("Hi")
+
+
